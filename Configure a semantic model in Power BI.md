@@ -161,3 +161,5 @@ Establecí la categoría de datos para las siguientes columnas (fuera de la jera
 
 ## Conclusión
 A lo largo de este laboratorio, configuré un modelo semántico en Power BI creando relaciones entre tablas, jerarquías y carpetas de visualización. Estas configuraciones permiten que los filtros se propaguen correctamente entre tablas y mejoran la organización y usabilidad del modelo para el análisis de datos.
+
+Configure the Sales table
